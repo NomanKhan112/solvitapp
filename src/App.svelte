@@ -12,6 +12,7 @@
 	/* table {
 		border-spacing: 10px;
 		width: 60%;
+		dfsdfasdfasfasdfa
 		height: 50%;
 		border-radius: 8px;
 		border: 2px solid rgb(106, 66, 143);
